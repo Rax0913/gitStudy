@@ -12,7 +12,7 @@ git status 显示暂存区状态
 git add files 工作区到暂存区
 git commit -m "information"  暂存区到仓库
 git remote -v   显示远程连接仓库
-
+dddd
 
 
 **************************IMPORTANT*******************
